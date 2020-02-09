@@ -22,7 +22,7 @@ title: Alex Laughnan
 email: alex@alexlaughnan.com
 description: >- # this means to ignore newlines until "baseurl:"
   hufflepuff. software engineer at box. queer (he/him).
-  en/fr. views are my own.
+  en/fr.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: laughnan
