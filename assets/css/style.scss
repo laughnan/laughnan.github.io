@@ -1,0 +1,11 @@
+---
+---
+// Variable overrides
+$header-bg-color: #667eea !default;
+$header-bg-color-secondary: #764ba2 !default;
+$section-headings-color: #764ba2 !default;
+$body-text-color: #424242 !default;
+$body-link-color: #667eea !default;
+
+@import "{{ site.theme }}";
+
