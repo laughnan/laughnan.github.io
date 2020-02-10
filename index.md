@@ -1,6 +1,5 @@
 ---
 layout: default
-title: alex laughnan
 ---
 ## a bit about me 🔮
 
